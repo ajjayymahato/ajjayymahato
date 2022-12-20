@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python, Java & UI Trends**
 
-- 📫 How to reach me **ajjayymahato@gmail.com**
+- 📫 How to reach me **ajaymahato.contact@gmail.com**
 
 - 📄 Know about my experiences [soon...](soon...)
 
