@@ -5,9 +5,9 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajjayymahato" alt="ajjayymahato" /></a> </p> -->
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
